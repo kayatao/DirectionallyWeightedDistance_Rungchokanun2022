@@ -17,7 +17,7 @@ This repository provides an implementation of following works in C# using EmguCV
 This solution contains two projects which are DirectionallyWeightedDistance_Rungchokanun2022 and Graph.
 The former contains the above implementation and the latter is used as a helper class for plotting matched minutiae. 
 
-### Please note that the source code is unofficial and is implemented for study purpose only. The correctness has not been confirmed by the author.
+### Please note that the source code is implemented for the study #1. Directionally Weighted Distance for Minutiae-Triplets Preservation on Elastic Deformation of Fingerprint Recognition".
 
 #### Usage
 Unzip and rename the folder to make it shorter, otherwise you will not be able to download packages.
